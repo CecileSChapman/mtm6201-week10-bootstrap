@@ -1,0 +1,12 @@
+:root {
+    --color-light-beige: #ffe7ae;
+}
+.banner {
+    background: var(--color-light-beige);
+    background: url('../img/main-banner.jpg');
+    
+}
+
+.banner .container {
+    background-color: rgba(0,0,0,0.5);
+}
